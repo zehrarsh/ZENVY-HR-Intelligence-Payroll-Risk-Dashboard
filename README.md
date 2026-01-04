@@ -26,7 +26,7 @@ Overtime % of Payroll
 🔹 Page 2: Attendance & Overtime
 Missing attendance analysis
 Overtime abuse by department and role
-![Attendance & Overtime Dashboard](image_name.png)
+![Attendance & Overtime Dashboard](Zenvy2.png)
 
 Key Business Insights
 Salary leakage was detected due to duplicate salary credits and improper payroll controls.
