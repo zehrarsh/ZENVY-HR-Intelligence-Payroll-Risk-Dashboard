@@ -21,7 +21,7 @@ Payroll Accuracy %
 Salary Leakage
 Ghost Employee Count
 Overtime % of Payroll
-![Executive Overview Dashoboard](image_name.png)
+![Executive Overview Dashoboard](Zenvy1.png)
 
 🔹 Page 2: Attendance & Overtime
 Missing attendance analysis
